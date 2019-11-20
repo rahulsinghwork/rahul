@@ -1,0 +1,3 @@
+NAME="RAHUL"
+readonly NAME
+NAME="SINGH"
